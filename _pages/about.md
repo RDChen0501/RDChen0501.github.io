@@ -29,13 +29,12 @@ latest_posts:
 
 Hi, I am a 2nd-year Masters of Computer Science (MsCS) student at Carnegie Mellon Institue. I do robotics research at the Robotics Institue adviced by Andrea Bajcsy.
 
-My research focus on dealing with uncertainty in the generalist robotics pipeline 
+My research focus on dealing with uncertainty in the generalist robotics pipeline
 and improving robot perception with additional modalities.
 
-My goal is to build embodied agents that act robustly and naturally in human environments by eliminating avoidable uncertainty through new modalities and identify unavoidable uncertainty through uncertainty quantification. 
+My goal is to build embodied agents that act robustly and naturally in human environments by eliminating avoidable uncertainty through new modalities and identify unavoidable uncertainty through uncertainty quantification.
 
-
-I am passionate about teaching robots new human-like skills or refine the percision of the ones they possess by leveraging new modalities. 
+I am also passionate about teaching robots new human-like skills or refine the percision of the ones they possess by leveraging new modalities.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
