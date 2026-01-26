@@ -26,13 +26,16 @@ latest_posts:
 
 Hi, I am a 2nd-year Masters of Computer Science (MsCS) student at Carnegie Mellon Institue. I do robotics research at the Robotics Institue adviced by [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
 
-My research focus on dealing with uncertainty in the generalist robotics pipeline
-and improving robot perception with additional modalities.
+My current research focus on tactile sensing and deterxous manipulation. Specially, I have been exploring the best way to leverage rich tactile information in fine manipulation tasks and enabling hands to perform complex tasks such as in-hand rotation and re-orientation on hardware using tactile signal. 
 
-My goal is to build embodied agents that act robustly and naturally in human environments by eliminating avoidable uncertainty through new modalities and identify unavoidable uncertainty through uncertainty quantification.
+Previously, I investigated uncertainty quantification in human-robot interaction with different approaches including human preference modeling with constrastive learning and human uncertitainty modeling in graphical representation of schuelding problems. 
 
-I am also passionate about teaching robots new human-like skills or refine the percision of the ones they possess by leveraging new modalities.
+My goal is to teach robots new skills by exploring the most effective ways to leverage avaible input modalities. 
 
+Other than robots, I also love mountains and rocks. My best friend and I spend a week each year to climb a couple 14ers in [Colorado](https://www.youtube.com/channel/UCBz3PtO67Pa7149xApU44pg). I am also an avid rock [climber](/climbing/) and a russian literature enthusiast. 
+
+
+<!-- that act robustly and naturally in human environments by eliminating avoidable uncertainty through new modalities and identify unavoidable uncertainty through uncertainty quantification. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
