@@ -26,11 +26,11 @@ latest_posts:
 
 Hi, I am a 2nd-year Masters of Computer Science (MsCS) student at Carnegie Mellon Institue. I do robotics research at the Robotics Institue adviced by [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
 
-My current research focus on tactile sensing and deterxous manipulation. Specially, I have been exploring the best way to leverage rich tactile information in fine manipulation tasks and enabling hands to perform complex tasks such as in-hand rotation and re-orientation on hardware using tactile signal. 
+My current research focuses on **tactile sensing and dexterous manipulation**. Specifically, I explore how to best leverage rich tactile information for fine manipulation tasks, enabling robotic hands to perform complex behaviors such as in-hand rotation and object re-orientation on hardware using tactile signals.
 
-Previously, I investigated uncertainty quantification in human-robot interaction with different approaches including human preference modeling with constrastive learning and human uncertitainty modeling in graphical representation of schuelding problems. 
+Previously, I investigated **uncertainty quantification in human-robot interaction** through approaches including human preference modeling via contrastive learning and modeling human uncertainty in graphical representations of scheduling problems.
 
-My goal is to teach robots new skills by exploring the most effective ways to leverage avaible input modalities. 
+My overarching goal is to teach robots new skills by identifying the most effective ways to utilize available sensory and input modalities.
 
 Other than robots, I also love mountains and rocks. My best friend and I spend a week each year to climb a couple 14ers in [Colorado](https://www.youtube.com/channel/UCBz3PtO67Pa7149xApU44pg). I [climb](/climbing) some rocks inside or outside while reading some russian lit.  
 
