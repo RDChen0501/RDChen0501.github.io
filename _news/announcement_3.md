@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper <a hredf="https://arxiv.org/pdf/2409.09883">Robot that Suggests Safe Alternatives</a> was accepted to IROS 2024! 
