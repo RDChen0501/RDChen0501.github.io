@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 2nd-year Masters of Computer Science (MsCS) student at Carnegie Mellon Institue. I do robotics research at the Robotics Institue adviced by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
+I am a 2nd-year Masters of Computer Science (MsCS) student at Carnegie Mellon University. I do robotics research at the Robotics Institue adviced by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
 
 My current research focuses on **tactile sensing and dexterous manipulation**. Specifically, I explore how to best leverage rich tactile information for fine manipulation tasks, enabling robotic hands to perform complex behaviors such as in-hand rotation and object re-orientation on hardware using tactile signals.
 
@@ -32,7 +32,7 @@ Previously, I investigated **uncertainty quantification in human-robot interacti
 
 My overarching goal is to teach robots new skills by identifying the most effective ways to utilize available sensory and input modalities.
 
-Other than robots, I also love mountains and rocks. My best friend and I spend a week each year to climb a couple 14ers in [Colorado](https://www.youtube.com/channel/UCBz3PtO67Pa7149xApU44pg). I [climb](/climbing) some rocks inside or outside while reading some russian lit.  
+Other than robots, I also love mountains and rocks. My best friend and I spend a week each year to climb a couple [14ers in Colorado](https://www.youtube.com/channel/UCBz3PtO67Pa7149xApU44pg). I [climb](/climbing) some rocks inside or outside while reading some russian lit.  
 
 
 <!-- that act robustly and naturally in human environments by eliminating avoidable uncertainty through new modalities and identify unavoidable uncertainty through uncertainty quantification. -->
