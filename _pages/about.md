@@ -32,7 +32,7 @@ Previously, I investigated **uncertainty quantification in human-robot interacti
 
 My overarching goal is to teach robots new skills by identifying the most effective ways to utilize available sensory and input modalities.
 
-Other than robots, I also love mountains and rocks. My best friend and I spend a week each year to climb a couple [14ers in Colorado](https://www.youtube.com/channel/UCBz3PtO67Pa7149xApU44pg). I [climb](/climbing) some rocks inside or outside while reading in the crag.  
+Other than robots, I also love mountains, rocks, and a good run. My best friend and I spend a week each year to climb a couple [14ers in Colorado](https://www.youtube.com/channel/UCBz3PtO67Pa7149xApU44pg). I [climb](/climbing) some rocks inside or outside and run on gravel and trails.
 
 
 <!-- that act robustly and naturally in human environments by eliminating avoidable uncertainty through new modalities and identify unavoidable uncertainty through uncertainty quantification. -->
