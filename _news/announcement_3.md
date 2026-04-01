@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a hredf="https://arxiv.org/pdf/2409.09883">Robot that Suggests Safe Alternatives</a> was accepted to IROS 2024! 
+Our paper <a hredf="https://arxiv.org/pdf/2409.09883">Robot that Suggests Safe Alternatives</a> was accepted to IROS 2025! 
