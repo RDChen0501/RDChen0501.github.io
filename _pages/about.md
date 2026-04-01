@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 2nd-year Masters of Computer Science (MsCS) student at Carnegie Mellon University. I do robotics research at the Robotics Institue adviced by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
+I am a 2nd-year Masters of Computer Science (MsCS) student at Carnegie Mellon University. I do robotics research at the Robotics Institue adviced by Prof. [Michael Kaess](https://www.cs.cmu.edu/~kaess/). I also had the pleasure of working with Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on safety-aware and preference-aligned human-robot interaction.
 
 My current research focuses on **tactile sensing and dexterous manipulation**. Specifically, I explore how to best leverage rich tactile information for fine manipulation tasks, enabling robotic hands to perform complex behaviors such as in-hand rotation and object re-orientation on hardware using tactile signals.
 
