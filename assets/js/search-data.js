@@ -46,7 +46,7 @@ ninja.data = [{
           title: 'I graudated from Harvey Mudd Collage and will start my Masters in Computer...',
           description: "",
           section: "News",},{id: "news-our-paper-robot-that-suggests-safe-alternatives-was-accepted-to-iros-2025",
-          title: 'Our paper Robot that Suggests Safe Alternatives was accepted to IROS 2025!',
+          title: 'Our paper Robot that Suggests Safe Alternatives was accepted to IROS 2025',
           description: "",
           section: "News",},{id: "news-our-paper-ptld-sim-to-real-privileged-tactile-latent-distillation-for-dexterous-manipulation-is-now-on-arvix",
           title: 'Our paper PTLD: Sim-to-real Privileged Tactile Latent Distillation for Dexterous Manipulation is now...',
